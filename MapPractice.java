@@ -15,6 +15,8 @@ public static void main(String[] args) {
 	//	System.out.println(entry);
 		System.out.println(entry.getValue());
 		System.out.println("Hello");
+		System.out.println("Java Selenium");
+		System.out.println("Git");
 	//	System.out.println(entry.getKey());
 	}
 }
