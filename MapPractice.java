@@ -14,8 +14,9 @@ public static void main(String[] args) {
     for (Entry<Integer, String> entry : entrySet) {
 	//	System.out.println(entry);
 		System.out.println(entry.getValue());
-		System.out.println("hello");
-		System.out.println("hi");
+		System.out.println("Hello");
+		System.out.println("Java Selenium");
+		System.out.println("Git");
 	//	System.out.println(entry.getKey());
 	}
 }
